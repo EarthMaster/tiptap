@@ -1,5 +1,18 @@
 # Change Log
 
+## 3.0.0
+
+### Patch Changes
+
+- ee851b7: fix: #5679 - perform string sanitization to remove unwanted "object replacement characters" from the before performing link detection
+- Updated dependencies [c7e5abb]
+- Updated dependencies [c8d9cd7]
+- Updated dependencies [82e0d1a]
+- Updated dependencies [b119cce]
+- Updated dependencies [e72adfd]
+  - @tiptap/core@3.0.0
+  - @tiptap/pm@3.0.0
+
 ## 2.10.2
 
 ## 2.10.1

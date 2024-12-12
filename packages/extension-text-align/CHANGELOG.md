@@ -1,5 +1,17 @@
 # Change Log
 
+## 3.0.0
+
+### Patch Changes
+
+- b98b0b0: Fixed an issue that caused defaultAlignment options not being added as text-styles to elements. defaultAlignment is now nullable to **disable the enforced text-align styles**.
+- Updated dependencies [c7e5abb]
+- Updated dependencies [c8d9cd7]
+- Updated dependencies [82e0d1a]
+- Updated dependencies [b119cce]
+- Updated dependencies [e72adfd]
+  - @tiptap/core@3.0.0
+
 ## 2.10.2
 
 ## 2.10.1

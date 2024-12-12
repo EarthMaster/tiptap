@@ -1,5 +1,21 @@
 # Change Log
 
+## 3.0.0
+
+### Minor Changes
+
+- 63b3d41: fix: #4311 - update the logic of removeEmptyTextStyle to manually handle the selection of all of the nodes within the selection to check for their marks independently to fix an issue where unsetting the font family on a selection would remove all applied text style marks from the selection as well
+- 25ed2dc: Added `mergeNestedSpanStyles` option to the `TextStyle` extension to address issue #5720
+
+### Patch Changes
+
+- Updated dependencies [c7e5abb]
+- Updated dependencies [c8d9cd7]
+- Updated dependencies [82e0d1a]
+- Updated dependencies [b119cce]
+- Updated dependencies [e72adfd]
+  - @tiptap/core@3.0.0
+
 ## 2.10.2
 
 ## 2.10.1

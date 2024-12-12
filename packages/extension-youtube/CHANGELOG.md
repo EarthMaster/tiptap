@@ -1,5 +1,17 @@
 # Change Log
 
+## 3.0.0
+
+### Patch Changes
+
+- 83117dd: Improved youtube regexes with more solid variants handling more subdomains and properties
+- Updated dependencies [c7e5abb]
+- Updated dependencies [c8d9cd7]
+- Updated dependencies [82e0d1a]
+- Updated dependencies [b119cce]
+- Updated dependencies [e72adfd]
+  - @tiptap/core@3.0.0
+
 ## 2.10.2
 
 ## 2.10.1

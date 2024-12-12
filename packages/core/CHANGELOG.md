@@ -1,5 +1,16 @@
 # Change Log
 
+## 3.0.0
+
+### Patch Changes
+
+- c7e5abb: Fixed an issue on Android where the focus command would cause the keyboard to flash
+- c8d9cd7: Added support for drag-and-drop between multiple editors
+- 82e0d1a: Updates the typings to be inline with Prosemirror-view #5867
+- b119cce: Use an AllSelection for the selectAll command #5516
+- e72adfd: Fixed an issue with nodeviews preventing any drag events in child nodes of the nodeview wrapper element
+  - @tiptap/pm@3.0.0
+
 ## 2.10.2
 
 ### Patch Changes

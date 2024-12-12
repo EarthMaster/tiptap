@@ -1,5 +1,18 @@
 # Change Log
 
+## 3.0.0
+
+### Patch Changes
+
+- 355b0bb: Fixed an issue that cause the floating menu empty-node check to not respect leaf nodes that didn't count into a nodes text content
+- Updated dependencies [c7e5abb]
+- Updated dependencies [c8d9cd7]
+- Updated dependencies [82e0d1a]
+- Updated dependencies [b119cce]
+- Updated dependencies [e72adfd]
+  - @tiptap/core@3.0.0
+  - @tiptap/pm@3.0.0
+
 ## 2.10.2
 
 ## 2.10.1

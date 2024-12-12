@@ -1,5 +1,18 @@
 # Change Log
 
+## 3.0.0
+
+### Patch Changes
+
+- d138b0f: Added a new option ´allowToIncludeChar` that allows the usage of the suggestion char inside the query
+- Updated dependencies [c7e5abb]
+- Updated dependencies [c8d9cd7]
+- Updated dependencies [82e0d1a]
+- Updated dependencies [b119cce]
+- Updated dependencies [e72adfd]
+  - @tiptap/core@3.0.0
+  - @tiptap/pm@3.0.0
+
 ## 2.10.2
 
 ## 2.10.1
